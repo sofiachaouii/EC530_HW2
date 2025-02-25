@@ -1,6 +1,4 @@
 """
-api.py
-
 This module provides implementations for :
 - User
 - House
